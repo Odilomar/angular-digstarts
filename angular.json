@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-digstarts"
+    }
+  },
+  "defaultProject": "angular-digstarts",
+  "cli": {
+    "analytics": false
+  }
 }
